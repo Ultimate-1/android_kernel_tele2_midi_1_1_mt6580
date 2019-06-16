@@ -1,0 +1,1 @@
+obj-$(CONFIG_EXT_PA_AW8155_PIXI4_5) := aw8155.o

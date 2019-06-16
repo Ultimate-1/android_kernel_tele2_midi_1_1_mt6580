@@ -1,0 +1,4 @@
+config DTV_SUPPORT_PIXI4_5
+	bool "DTV fc8180 Support for pixi4_5 project"
+	default n
+

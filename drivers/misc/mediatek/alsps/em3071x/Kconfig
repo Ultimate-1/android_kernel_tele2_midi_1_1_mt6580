@@ -1,0 +1,9 @@
+
+config MTK_EM3071X
+	bool "em3071x for MediaTek package"
+	default n
+	help
+	It support different type sensor
+	in this platform. If this option
+	is set, it will support ambient
+	and light sensor em3071x.

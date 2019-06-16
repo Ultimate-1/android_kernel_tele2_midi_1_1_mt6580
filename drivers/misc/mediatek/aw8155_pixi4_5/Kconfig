@@ -1,0 +1,3 @@
+config EXT_PA_AW8155_PIXI4_5
+	bool "External PA Support for pixi4_5 project"
+	default n
